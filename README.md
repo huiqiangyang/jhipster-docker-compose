@@ -26,8 +26,11 @@ jhipster:
 
 ```
 
+
 `docker-compose -f jhipster-docker-compose.yml up -d`
+
 `docker ps -a`
+
 `docker exec -it [cid] [jhipster] bach`
 
 Tryed yourself! Goodluck for you! 
