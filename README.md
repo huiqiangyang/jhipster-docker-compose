@@ -31,6 +31,6 @@ jhipster:
 
 `docker ps -a`
 
-`docker exec -it [cid] [jhipster] bach`
+`docker exec -it [cid] [jhipster] bash`
 
 Tryed yourself! Goodluck for you! 
